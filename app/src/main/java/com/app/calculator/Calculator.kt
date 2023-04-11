@@ -110,7 +110,7 @@ fun Calculator(
                     }
                 )
                 CalculatorButton(
-                    symbol = "x",
+                    symbol = "×",
                     modifier = Modifier
                         .background(Orange)
                         .aspectRatio(1f)
